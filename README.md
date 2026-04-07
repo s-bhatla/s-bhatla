@@ -6,6 +6,8 @@
 
 *one must imagine the engineer happy*
 
+[sidroot02@gmail.com](mailto:sidroot02@gmail.com) · [portfolio](https://sidharth-bhatla.netlify.app)
+
 </div>
 
 ---
