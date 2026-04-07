@@ -10,7 +10,9 @@
 
 ---
 
-Backend engineer. AI practitioner. I build things at the intersection of systems and intelligence — agentic pipelines, production ML, and APIs that hold up when reality gets messy.
+I'm most at home in the backend — designing systems that are fast, correct, and don't surprise you in production. I've benchmarked PostGIS spatial queries for 95x throughput gains, built decoupled upload pipelines, and written pub/sub brokers from scratch in Go.
+
+On the AI side I work across the full stack: fine-tuning vision models for face recognition and object detection, building GraphRAG and text-to-SQL pipelines that let you query structured data in plain English, and wiring up multi-step agentic workflows with LangGraph and the OpenAI Agents SDK that plan, execute, and verify their own work. Python is my main language, Go is where I go when I need it fast, and I've shipped full-stack systems from React Native frontends to cloud-deployed backends on GCP and AWS.
 
 > *"Not knowing is most intimate."* — Dizang
 
@@ -64,19 +66,46 @@ Backend engineer. AI practitioner. I build things at the intersection of systems
 
 ---
 
-### Built things
+### Projects
 
-**[Sebas](https://github.com/s-bhatla/sebas)** — Personal AI assistant with a SQLite backbone. Todos, habits, Google Calendar — via CLI or Discord DM. The butler I always wanted, the one I had to build.
+<div align="center">
 
-**[ShiCity](https://github.com/s-bhatla/ShiCity-backend)** — Geo-tagged trash reporting platform. Users photograph a dump, the app attaches GPS, the backend maps it. React Native frontend, Node.js/Express REST API, heatmap generation, and the quiet hope that people care.
+<a href="https://github.com/s-bhatla/ShiCity-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=ShiCity-backend&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/s-bhatla/sebas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=sebas&theme=tokyonight&hide_border=true" />
+</a>
 
-**[NextB](https://github.com/s-bhatla/NextB)** — WhatsApp bot for maintaining relationships without surrendering your phone. Claude generates personalized messages per contact; APScheduler fires them with natural-feeling randomness; guardrails keep it from becoming that one friend who texts too much.
+<a href="https://github.com/s-bhatla/NextB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=NextB&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/s-bhatla/StoryChain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=StoryChain&theme=tokyonight&hide_border=true" />
+</a>
 
-**[StoryChain](https://github.com/s-bhatla/StoryChain)** — Real-time, anonymous collaborative storytelling party game. WebSocket backend in Go, because it deserved to be fast.
+<a href="https://github.com/s-bhatla/pubsub-http">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=pubsub-http&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/s-bhatla/go-chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=go-chat&theme=tokyonight&hide_border=true" />
+</a>
 
-**[pubsub-http](https://github.com/s-bhatla/pubsub-http)** — Lightweight HTTP pub/sub message broker in Go using the Fiber framework. Clean JSON protocol, no ceremony.
+<a href="https://github.com/s-bhatla/Mail-Spinny">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=Mail-Spinny&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/s-bhatla/To-Do-Discord-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=To-Do-Discord-Bot&theme=tokyonight&hide_border=true" />
+</a>
 
-**[To-Do-Discord-Bot](https://github.com/s-bhatla/To-Do-Discord-Bot)** — Discord bot for managing a shared to-do list. Built in Python. Because sometimes the project management tool should live where the team already is.
+<a href="https://github.com/s-bhatla/VaxiQueue">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=VaxiQueue&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/s-bhatla/DSA-practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s-bhatla&repo=DSA-practice&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
