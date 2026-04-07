@@ -92,13 +92,6 @@ On the AI side I work across the full stack: fine-tuning vision models for face 
 
 ---
 
-> *Before enlightenment: write code, fix bugs.*  
-> *After enlightenment: write code, fix bugs.*
-
-<div align="center">
-
-<br/>
-
 <img src="https://media.giphy.com/media/J20KhwQ6sL0CGiEVrz/giphy.gif" width="280"/>
 
 <br/>
