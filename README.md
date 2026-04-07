@@ -105,8 +105,4 @@ On the AI side I work across the full stack: fine-tuning vision models for face 
 
 — Solaire of Astora
 
-<br/>
-
-[portfolio](https://sidharth-bhatla.netlify.app)
-
 </div>
