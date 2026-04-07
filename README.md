@@ -97,6 +97,10 @@ On the AI side I work across the full stack: fine-tuning vision models for face 
 
 <br/>
 
+<img src="https://media.giphy.com/media/J20KhwQ6sL0CGiEVrz/giphy.gif" width="120"/>
+
+<br/>
+
 *"I did not find my own sun, not in Anor Londo, nor in Twilight Blighttown.*  
 *Where else might my sun be? Lost Izalith, or the Tomb of the Gravelord…?*  
 *But I cannot give up. I became Undead to pursue this!*  
